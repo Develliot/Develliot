@@ -6,16 +6,16 @@
 
 # Develliot
 
-### :technologist: &nbsp;About Me:
+## :technologist: &nbsp;About Me:
 
-- I work fullstack but has specialism in frontend
+- I work fullstack but I specialise in frontend, I'm the Frontend Capability lead for Cancer Research UK
 - I'm a massive advocate for Accessibility
-- I'm the Frontend Capability lead for Cancer Research UK
+- I work on products that are used by millions of people each month
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elliot-revan-926ba474/)
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## 🛠 &nbsp;Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -35,13 +35,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 
 </div>
 
 ---
 
-### 🔥 &nbsp; My Stats :
+## 🔥 &nbsp; My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Develliot&theme=dark&background=000000)](https://git.io/streak-stats)
 
