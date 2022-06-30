@@ -4,7 +4,11 @@
 <a href="https://www.linkedin.com/in/elliot-revan-926ba474/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </div>
 
+---
+
 # Develliot
+
+---
 
 ## :technologist: &nbsp;About Me:
 
