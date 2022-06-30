@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://www.svgrepo.com/show/29869/robot.svg" intrinsicsize="512 x 512" width="180" height="180" srcset="https://www.svgrepo.com/show/29869/robot.svg 4x" alt="Robot SVG Vector" title="Robot SVG Vector">
-<br>
+
 <a href="https://www.linkedin.com/in/elliot-revan-926ba474/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 </div>
 
 ---
